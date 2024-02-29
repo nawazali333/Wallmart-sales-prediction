@@ -13,8 +13,10 @@
  # How Are We Going to Build This?
  
 -We will handle missing values present in the dataset during the data cleaning stage.
+
 -We will perform exploratory data analysis (EDA) using various visualization techniques 
  to identify underlying patterns and correlations that can help us derive insights.
+ 
 -Further, we will train and develop multiple regressor ML models, such as XGBoost Regressor model,
  LGBMRegressor,etc and compare their performance based on the model’s accuracy and RMSE.
  
